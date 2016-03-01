@@ -1,0 +1,19 @@
+{
+  "name": "gitbook_500lines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gitbook": "gitbook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/zjjott/500lines.git"
+  },
+  "author": "zjjott",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.0.1",
+    "gitbook-plugin-mathjax": "^1.0.2"
+  }
+}
